@@ -7,6 +7,7 @@ while user_input != 'q':
     num = float(user_input)
     # total = total + num
     total += num
+    # count = count + 1
     count += 1
     user_input = input('Please type the number (after you type all numbers, please type \'q\' to quit): ')
 
