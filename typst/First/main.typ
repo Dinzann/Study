@@ -28,7 +28,7 @@ behavior of these natural structures.
 #figure(
   image("nvim-preview.png", width: 70%),
   caption: [
-    _Snacks_ is a very good plugin.
+    _Snacks.nvim_ is a very good plugin.
   ],
 ) <first>
 
