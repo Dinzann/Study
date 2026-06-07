@@ -1,3 +1,4 @@
+#set heading(numbering: "1.")
 #set text(
   font: "PingFang SC",
 )
@@ -16,6 +17,8 @@
 ```bash
 brew install nvim
 ```
+#parbreak()
+so just do it yourself and you will get a better understanding of it.
 
 = Mode
 + date
